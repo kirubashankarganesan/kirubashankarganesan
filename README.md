@@ -28,7 +28,7 @@
 
 📚 Continuously learning new technologies and improving my problem-solving skills.
 
-🎯 Currently looking for **entry-level Software Development / Java Full Stack opportunities**.
+🎯 Currently looking for **entry-level Software Development / Full Stack opportunities**.
 
 ---
 
