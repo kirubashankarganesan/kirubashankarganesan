@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Kirubashankar G
+#  Hi, I'm Kirubashankar G
 
 ### 💻 Full Stack Developer | DSA & Problem Solving | Building Real-World Applications
 
