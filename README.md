@@ -79,28 +79,6 @@
 
 # 🚀 Featured Projects
 
-## 💰 Billing Software
-
-A full-stack Billing Software application built to simplify business billing operations.
-
-### ✨ Features
-
-- 📦 Item Management
-- 🧾 GST-based Bill Generation
-- 📊 Dashboard Analytics
-- 📑 Reporting
-- 🔗 RESTful API Integration
-- 🗄️ Database Management
-
-### 🛠️ Technologies
-
-`React.js` `Spring Boot` `Java` `MySQL` `REST API`
-
-🔗 **Repository:**  
-https://github.com/kirubashankarganesan/billing-software
-
----
-
 ## 🎓 Student Information Management System
 
 A full-stack student management system designed to manage student information and academic activities.
@@ -121,6 +99,28 @@ A full-stack student management system designed to manage student information an
 
 🔗 **Repository:**  
 https://github.com/kirubashankarganesan/student-information-management-system
+
+---
+
+## 💰 Billing Software
+
+A full-stack Billing Software application built to simplify business billing operations.
+
+### ✨ Features
+
+- 📦 Item Management
+- 🧾 GST-based Bill Generation
+- 📊 Dashboard Analytics
+- 📑 Reporting
+- 🔗 RESTful API Integration
+- 🗄️ Database Management
+
+### 🛠️ Technologies
+
+`React.js` `Spring Boot` `Java` `MySQL` `REST API`
+
+🔗 **Repository:**  
+https://github.com/kirubashankarganesan/billing-software
 
 ---
 
