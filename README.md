@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Kirubashankar G
 
-### 💻 Java Full Stack Developer | DSA & Problem Solving | Building Real-World Applications
+### 💻 Full Stack Developer | DSA & Problem Solving | Building Real-World Applications
 
 <p>
   <a href="https://github.com/kirubashankarganesan">
