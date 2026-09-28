@@ -1,233 +1,237 @@
-<div align="center">
+<!-- ============================== HEADER ============================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:8b5cf6&height=200&section=header&text=Kirubashankar%20G&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20Express.js&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Kirubashankar G" />
+</p>
 
-#  Hi, I'm Kirubashankar G
-
-### 💻 Full Stack Developer | DSA & Problem Solving | Building Real-World Applications
-
-<p>
+<p align="center">
   <a href="https://github.com/kirubashankarganesan">
-    <img src="https://img.shields.io/badge/GitHub-kirubashankarganesan-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=620&lines=Final-year+Computer+Science+Engineering+Student;Full+Stack+Developer+%7C+Java+%2B+Spring+Boot+%2B+React;Backend+with+Spring+Boot%2C+Node.js+%26+Express.js;Solving+DSA+problems+every+day;Open+to+Software+Development+roles" alt="Typing SVG" />
   </a>
 </p>
 
-</div>
+<p align="center">
+  <a href="https://kirubashankar-g.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-kirubashankar--g.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/kirubashankar-g-5613422a4"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+<p align="center">📍 Coimbatore, India &nbsp;•&nbsp; 🎯 Open to entry-level Software Developer / Full Stack roles</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 Final-year Computer Science Engineering student passionate about software development.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-💻 Aspiring **Full Stack Developer** with a strong interest in backend and full-stack application development.
+- 🎓 **Final-year Computer Science Engineering** student passionate about software development
+- 💻 **Aspiring Full Stack Developer** with a strong focus on backend and full-stack applications
+- ☕ Build with **Java, Spring Boot, Node.js, Express.js, React.js, MySQL** and **MongoDB**
+- 🧠 Actively practicing **Data Structures & Algorithms** on LeetCode
+- 🚀 Enjoy building **real-world projects** that solve practical problems
+- 📚 Always learning new technologies and sharpening problem-solving skills
 
-☕ I enjoy working with **Java, Spring Boot, React.js and MySQL**.
+</td>
+<td width="40%" valign="top">
 
-🧠 Actively practicing **Data Structures & Algorithms** and solving coding problems.
+```java
+public class Kirubashankar {
+    String role     = "Full Stack Developer";
+    String location = "Coimbatore, India";
+    String[] backend  = {"Spring Boot", "Node.js",
+                         "Express.js"};
+    String[] frontend = {"React.js", "Bootstrap"};
+    String[] database = {"MySQL", "MongoDB"};
+    boolean openToWork = true;
+}
+```
 
-🚀 I enjoy building **real-world projects** that solve practical problems.
-
-📚 Continuously learning new technologies and improving my problem-solving skills.
-
-🎯 Currently looking for **entry-level Software Development / Full Stack opportunities**.
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+<table align="center">
+  <tr>
+    <td align="center" width="170"><b>💻 Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=java,js&perline=10" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🌐 Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&perline=10" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚙️ Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=spring,nodejs,express&perline=10" alt="Backend" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🗄️ Database</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=10" alt="Database" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🔧 Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,maven,vercel&perline=10" alt="Tools" /></td>
+  </tr>
+</table>
 
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### 🌐 Frontend
-
-<p>
-<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
-
-### 🗄️ Database
-
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### 🔧 Tools & Technologies
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/MVC_Architecture-6DB33F?style=flat-square&logo=spring&logoColor=white" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🎓 Student Information Management System
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A full-stack student management system designed to manage student information and academic activities.
+### 🎓 Student Information Management System
+Role-based system to manage student records, attendance, academics, leave, OD requests and achievements.
 
-### ✨ Features
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-- 👨‍🎓 Student Records
-- 📅 Attendance Management
-- 📚 Academic Information
-- 📝 Leave Management
-- 📄 OD Requests
-- 🏆 Achievement Management
-- 🔐 Role-Based Access
+**Highlights:** Role-based access · Attendance · Leave & OD workflow · Achievements
 
-### 🛠️ Technologies
+🔗 [**View Repository →**](https://github.com/kirubashankarganesan/student-information-management-system)
 
-`React.js` `Spring Boot` `Java` `MySQL`
+</td>
+<td width="50%" valign="top">
 
-🔗 **Repository:**  
-https://github.com/kirubashankarganesan/student-information-management-system
+### 🛒 E-Commerce (MERN)
+Full-featured e-commerce web app with product browsing, cart, checkout, reviews and an admin panel.
 
----
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-## 💰 Billing Software
+**Highlights:** Authentication · Cart & checkout · Reviews · Admin product & order management
 
-A full-stack Billing Software application built to simplify business billing operations.
+🔗 [**View Repository →**](https://github.com/kirubashankarganesan/E-Commerce)
 
-### ✨ Features
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-- 📦 Item Management
-- 🧾 GST-based Bill Generation
-- 📊 Dashboard Analytics
-- 📑 Reporting
-- 🔗 RESTful API Integration
-- 🗄️ Database Management
+### 💰 Billing Software
+Full-stack billing application that simplifies business billing with GST-based invoices and analytics.
 
-### 🛠️ Technologies
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-`React.js` `Spring Boot` `Java` `MySQL` `REST API`
+**Highlights:** Item management · GST bill generation · Dashboard · Reports
 
-🔗 **Repository:**  
-https://github.com/kirubashankarganesan/billing-software
+🔗 [**View Repository →**](https://github.com/kirubashankarganesan/billing-software)
 
----
+</td>
+<td width="50%" valign="top">
 
-## 💸 Expense Tracker
+### 💸 Expense Tracker
+Personal finance app to manage expenses and budgets with secure login and exportable reports.
 
-A full-stack expense tracking application for managing personal expenses and budgets.
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-### ✨ Features
+**Highlights:** JWT authentication · Budget tracking · Analytics · PDF & Excel reports
 
-- 💰 Expense Management
-- 📊 Dashboard Analytics
-- 📈 Budget Tracking
-- 🔐 JWT Authentication
-- 📄 PDF Reports
-- 📊 Excel Reports
+🔗 [**View Repository →**](https://github.com/kirubashankarganesan/expense-tracker)
 
-### 🛠️ Technologies
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-`React.js` `Spring Boot` `Java` `MySQL` `JWT`
+### 🌐 Personal Portfolio
+Responsive portfolio showcasing my projects, skills, internship experience and certifications.
 
-🔗 **Repository:**  
-https://github.com/kirubashankarganesan/expense-tracker
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
----
+🌍 [**Live Site**](https://kirubashankar-g.vercel.app/) &nbsp;|&nbsp; 🔗 [**Repository →**](https://github.com/kirubashankarganesan/kirubashankar-g-portfolio)
 
-## 🌐 Personal Portfolio
+</td>
+<td width="50%" valign="top">
 
-A responsive personal portfolio website showcasing my projects, technical skills, certifications and software development journey.
+### 💻 LeetCode Solutions
+My LeetCode problem-solving journey in Java, organised by DSA topic.
 
-### 🛠️ Technologies
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)
+![DSA](https://img.shields.io/badge/DSA-0ea5e9?style=flat-square)
 
-`React.js` `Bootstrap` `JavaScript` `CSS`
+**Covers:** Arrays · Strings · Linked Lists · Trees · Binary Search · DP and more
 
-🔗 **Live Portfolio:**  
-https://kirubashankar-g.vercel.app/
+🔗 [**View Repository →**](https://github.com/kirubashankarganesan/leetcode-solutions)
 
-🔗 **Repository:**  
-https://github.com/kirubashankarganesan/kirubashankar-g-portfolio
-
----
-
-## 💻 LeetCode Solutions
-
-A collection of my **LeetCode problem-solving solutions**, mainly focused on Java and Data Structures & Algorithms.
-
-### 📚 Topics
-
-- Arrays
-- Strings
-- Linked Lists
-- Stack
-- Queue
-- Hashing
-- Sliding Window
-- Two Pointers
-- Binary Search
-- Trees
-- Dynamic Programming
-- Algorithms
-
-🔗 **Repository:**  
-https://github.com/kirubashankarganesan/leetcode-solutions
+</td>
+</tr>
+</table>
 
 ---
 
-## ☕ Java Coding Practice
+## 📚 Learning & Practice Repositories
 
-A collection of Java programming solutions covering DSA, algorithms, interview questions and coding practice problems.
-
-### 🧠 Focus Areas
-
-- Core Java
-- OOP
-- Collections
-- Exception Handling
-- Strings
-- Arrays
-- Data Structures
-- Algorithms
-- Interview Problems
-
-🔗 **Repository:**  
-https://github.com/kirubashankarganesan/java-coding-practice
+| Repository | What's Inside |
+|:--|:--|
+| ☕ [java-placement-preparation](https://github.com/kirubashankarganesan/java-placement-preparation) | Java concepts, programs and interview preparation notes — basic to advanced |
+| 🧩 [java-coding-practice](https://github.com/kirubashankarganesan/java-coding-practice) | Core Java, OOP, Collections, Exceptions, DSA and interview problems |
+| 🌱 [spring-boot-concepts](https://github.com/kirubashankarganesan/spring-boot-concepts) | Spring Boot concepts, REST APIs and hands-on examples |
+| ⚛️ [reactjs-concepts](https://github.com/kirubashankarganesan/reactjs-concepts) | React.js concepts, practical examples and mini projects |
+| 🗄️ [mysql-concepts](https://github.com/kirubashankarganesan/mysql-concepts) | SQL queries, database exercises and practical examples |
+| 🟨 [javascript-concepts](https://github.com/kirubashankarganesan/javascript-concepts) | JavaScript concepts and practice with a Course Registration mini project |
+| 🎨 [css-concepts](https://github.com/kirubashankarganesan/css-concepts) | CSS concepts and practice files with a Course Registration mini project |
+| 📄 [html-concepts](https://github.com/kirubashankarganesan/html-concepts) | HTML concepts and practice files with a Course Registration mini project |
+| 🔀 [git-github-concepts](https://github.com/kirubashankarganesan/git-github-concepts) | Git & GitHub commands, workflows and version-control practice |
 
 ---
 
-# 🧠 Data Structures & Algorithms
+## 🧠 Data Structures & Algorithms
 
-I regularly practice DSA and coding problems to improve my problem-solving skills.
+I practice DSA regularly to strengthen my problem-solving skills. Topics I'm working on:
 
-### 📌 Areas I'm Practicing
+<p>
+  <code>Arrays</code> <code>Strings</code> <code>Linked Lists</code> <code>Stacks</code> <code>Queues</code>
+  <code>HashMap / HashSet</code> <code>Sliding Window</code> <code>Two Pointers</code> <code>Binary Search</code>
+  <code>Sorting</code> <code>Recursion</code> <code>Trees</code> <code>Graphs</code>
+  <code>Dynamic Programming</code> <code>Greedy</code>
+</p>
 
-```text
-Arrays
-Strings
-Linked Lists
-Stacks
-Queues
-HashMap / HashSet
-Sliding Window
-Two Pointers
-Binary Search
-Sorting
-Recursion
-Trees
-Graphs
-Dynamic Programming
-Greedy Algorithms
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  I'm currently looking for <b>entry-level Software Development / Full Stack</b> opportunities.<br/>
+  Feel free to reach out — I'm always happy to collaborate and learn.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kirubashankar-g-5613422a4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://kirubashankar-g.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/kirubashankarganesan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:6366f1,100:0ea5e9&height=120&section=footer" width="100%" alt="footer" />
+</p>
+
